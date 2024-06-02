@@ -37,5 +37,8 @@ Actualmente estudianten de ingenieria en informatica; formandome en el area de l
 - UI UX
   
 ![Python](python.png)
+![js](js.png)
+![type](type.png)
+![golang](golang-svgrepo-com.svg)
 
 
