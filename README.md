@@ -36,6 +36,6 @@ Actualmente estudianten de ingenieria en informatica; formandome en el area de l
 - Patrones de diseño
 - UI UX
   
-![Python](imagen.png)
+![Python](python.png)
 
 
