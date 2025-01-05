@@ -1,5 +1,5 @@
 
-# Hola, me llamo Julio Nieto y me dedico a la `progamacion` 😍💻
+# Hola, me llamo Julio Nieto, estudiante de Ingeniería en Informática apasionado por la `progamacion` 😍💻
 
 Actualmente estudianten de ingenieria en informatica; formandome en el area de la programacion, con conocimientos en el area web front-end y back-end; con experiencia laboral, y con ganas de segui aprendiendo sobre el hermoso mundo del desarrollo para hallar soluciones agrabables y eficientes para problemas de la vida diaria y mejorar la vida de las personas gracias al alcance de la tecnologia.
 
