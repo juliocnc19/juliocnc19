@@ -11,7 +11,8 @@ Actualmente estudianten de ingenieria en informatica; formandome en el area de l
 - Javascript
 - Typescript
 - Python
-- Go.
+- Go
+- Java
 
 #### Frameworks and tools
 - Linux terminal
