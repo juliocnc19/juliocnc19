@@ -16,7 +16,8 @@ Actualmente estudianten de ingenieria en informatica; formandome en el area de l
 
 #### Frameworks and tools
 - Linux terminal
-- Dokcer
+- Docker
+- Spring Boot
 - Django
 - FastAPI
 - React
@@ -35,7 +36,5 @@ Actualmente estudianten de ingenieria en informatica; formandome en el area de l
 ### Other
 - Arquitecturas de desarrollo de Software
 - Patrones de diseño
-- UI UX
-
 
 
